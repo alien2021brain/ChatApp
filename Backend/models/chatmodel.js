@@ -39,4 +39,4 @@ timestamps:true,
 const Chat = mongoose.model("Chat",chatModel);
 
 // exporting
-module.exports=momgoose;
+module.exports=Chat;
